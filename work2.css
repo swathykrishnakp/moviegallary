@@ -1,0 +1,12 @@
+body{background-color: black;}
+
+div{height: 500px;
+width: 24%;
+border: white 5px solid;
+float: left;}
+h3{color: white;
+text-align: center;}
+img{width: 100%;}
+p{color: white;}
+
+
